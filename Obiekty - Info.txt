@@ -1,0 +1,18 @@
+(...) krotki - tuple - są niemutowalne, sekwencjami.
+[...] listy - list - są uporządkowanymi kolekcjami dowolnych elementów.
+                       można uzyskać dostęp do dowolnej pozycji dzięki kolejności w sekwenji występowania
+                        
+{...} zbiory - SETy - mogą zawierać tylko obiekty niemutowalne, nie można w nich osadzić list oraz słowników.
+                        Tylko krotki. Zbiory nie są uporządkowane.
+{klucz:wartość} słowniki - DICT - nieuporządkowane tabele referencji do obiektów
+'...' łańcuchy - string - STR - niemutowalne
+
+Typy NIEMUTOWALNE: nie zmienne w miejscu zapisu ale możliwe do przekształceń w nowe obiekty
+liczby, łańcuchy znaków, krotki, zamrożone zbiory
+
+Typy MUTOWALNE: możliwe do modyfikacji w miejscu zapisu bez tworzenia nowych obiektó
+listy, słowniki, zbiory, ciągi ByteArray
+
+Iterowanie = Rozróżnienie
+
+konkatenacja = uporządkowane łączenie

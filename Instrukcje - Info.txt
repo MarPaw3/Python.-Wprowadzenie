@@ -1,0 +1,15 @@
+Instrukcje - Statements
+Programy z Modułów => Moduły z Instrukcji => Instrukcje z Wyrażeń => Wyrażenia tworzą i przetwarzają obiekty
+Instrukcja może się rozciągać na wiele wierszy dzięki nawiasom(){}[].
+Przypisania "=" tworzą referencje do obieków.
+Konkatenacja - dodawanie obiektów tworząc nowy obiekt
++= funkcja modyfikuje obiekt w miejscu
+Dowolna liczba niebędąca zerem i dowolny nieusty obiekt jest prawdą True
+Liczba 0, puste obiekty oraz specjalny obiekt None uznawane są za fałsz False
+Pass - pozwala na wykonanie pustej instrukcji i przejście dalej
+Continue - wykonuje instrukcję od początku pomijając dalszą część
+Break - przerywa wykonywanie instrukcji
+For - pętla po iterowalnych obiektach(tuple, string, list)
+Funkcja Range - jest iteratorem
+Zip - potrafi spakować dwie listy i utworzyć np. słownik
+Enumerate - ponumerowanie składników obiektu

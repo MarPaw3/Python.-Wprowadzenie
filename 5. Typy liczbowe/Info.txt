@@ -1,0 +1,5 @@
+(...) krotki -
+[...] listy - list
+{...} zbiory - SETy - mogą zawierać tylko obiekty niemutowalne, nie można w nich osadzić list oraz słowników.
+Tylko krotki. Zbiory nie są uporządkowane.
+{...:...} słowniki - DICT
